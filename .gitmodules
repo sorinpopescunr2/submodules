@@ -1,0 +1,3 @@
+[submodule "static/submodule"]
+	path = static/submodule
+	url = https://github.com/sorinpopescunr2/submodules
